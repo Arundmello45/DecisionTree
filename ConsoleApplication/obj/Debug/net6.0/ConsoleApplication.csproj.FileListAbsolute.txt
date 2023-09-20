@@ -1,0 +1,14 @@
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.exe
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.deps.json
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.runtimeconfig.json
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.pdb
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.dll
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\refint\ConsoleApplication.dll
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.pdb
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\abguj\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\net6.0\ref\ConsoleApplication.dll
