@@ -3,7 +3,7 @@ using ConsoleApplication.DecisionTree;
 
 namespace ConsoleApplication.DecisionTree;
 
-public class TerminalQuestion: Question
+public class TerminalQuestion : Question
 {
     public static TerminalQuestion Success = new TerminalQuestion();
     public static TerminalQuestion Failure = new TerminalQuestion();
@@ -18,3 +18,4 @@ public class TerminalQuestion: Question
         throw new InvalidOperationException("Reached the terminal condition!");
     }
 }
+

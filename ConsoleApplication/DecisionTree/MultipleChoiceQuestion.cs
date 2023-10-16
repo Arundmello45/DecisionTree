@@ -12,7 +12,6 @@ public class MultipleChoiceQuestion : Question
     {
         _question = question;
         _defaultAnswer = defaultAnswer;
-            
         _options = options;
     }
     public void Be(object reply)

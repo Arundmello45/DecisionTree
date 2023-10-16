@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abguj\\source\\repos\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj": {}
+    "C:\\Users\\ardme\\OneDrive - EG A S\\Desktop\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abguj\\source\\repos\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj": {
+    "C:\\Users\\ardme\\OneDrive - EG A S\\Desktop\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abguj\\source\\repos\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
+        "projectUniqueName": "C:\\Users\\ardme\\OneDrive - EG A S\\Desktop\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
         "projectName": "ConsoleApplication",
-        "projectPath": "C:\\Users\\abguj\\source\\repos\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
-        "packagesPath": "C:\\Users\\abguj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abguj\\source\\repos\\ConsoleApplication\\ConsoleApplication\\obj\\",
+        "projectPath": "C:\\Users\\ardme\\OneDrive - EG A S\\Desktop\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
+        "packagesPath": "C:\\Users\\ardme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardme\\OneDrive - EG A S\\Desktop\\ConsoleApplication\\ConsoleApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abguj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ardme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
